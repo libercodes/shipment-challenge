@@ -89,6 +89,13 @@ To run the test script:
 npm run send
 ```
 
+
+## ENVS
+```python
+   PORT=4000
+   POSTGRES_DB_URL=
+```
+
 ## Submission
 
 When you are complete, please submit in one of the following ways:
